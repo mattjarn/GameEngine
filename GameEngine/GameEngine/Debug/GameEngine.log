@@ -1,2 +1,0 @@
-﻿MainEngine.obj : error LNK2019: unresolved external symbol "public: __thiscall btDbvtBroadphase::btDbvtBroadphase(class btOverlappingPairCache *)" (??0btDbvtBroadphase@@QAE@PAVbtOverlappingPairCache@@@Z) referenced in function _main
-C:\Users\mattj\source\repos\GameEngine\Debug\GameEngine.exe : fatal error LNK1120: 1 unresolved externals
