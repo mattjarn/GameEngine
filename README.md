@@ -14,5 +14,5 @@ Capabilities:
 6. Math Library
 7. Memory Management (stack allocator)
 8. Import models and textures (uses assimp)
-9. Basic physic engine capabilities (bullet physics)
+9. Basic physics engine capabilities (bullet physics)
 10. lights and shading
